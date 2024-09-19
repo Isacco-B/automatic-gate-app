@@ -1,6 +1,7 @@
 # AutomaticGate Mobile App
 
-- Mobile App for Automatic Gate Control using MQTT protocol
+- A React Native application for controlling an automatic gate using the MQTT APIs from the Automatic Gate API. Developed with Expo Go and NativeWind.
+- Automatic Gate API: https://github.com/Isacco-B/ESP32_Automatic_Gate_API
 
 
 ## Tech Stack
